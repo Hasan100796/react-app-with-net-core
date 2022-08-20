@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QneUtIr5p5+dbtHxRVmg4Taeo59vev1vLaGEYcCLFXsRqA2fEW02bVgwI/m1j3Ydv47dD9RJdS8/Ci1MZfHFFw==",
+  "dgSpecHash": "sFWaBaWqoWG/wJlz292gdj6NFcWEY4f6vfL642eilSI992cvflYlBAqYBxZ2Lj+EG/RJu2i8ZEK50ea3lIfioA==",
   "success": true,
-  "projectFilePath": "D:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\QuizServer\\QuizServer.csproj",
+  "projectFilePath": "D:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\QuizServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

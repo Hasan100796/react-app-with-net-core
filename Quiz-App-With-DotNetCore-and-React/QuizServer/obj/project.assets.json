@@ -5322,11 +5322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\QuizServer\\QuizServer.csproj",
+      "projectUniqueName": "d:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\QuizServer.csproj",
       "projectName": "QuizServer",
-      "projectPath": "D:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\QuizServer\\QuizServer.csproj",
+      "projectPath": "d:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\QuizServer.csproj",
       "packagesPath": "C:\\Users\\Hasan\\.nuget\\packages\\",
-      "outputPath": "D:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\QuizServer\\obj\\",
+      "outputPath": "d:\\SharedProjectLearning\\Quiz-App-With-DotNetCore-and-React\\QuizServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
